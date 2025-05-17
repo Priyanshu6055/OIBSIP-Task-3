@@ -1,6 +1,6 @@
-# Texture Converter - Oasis Infobyte Task 3
+# Temperature Converter - Oasis Infobyte Task 3
 
-This project is a **Texture Converter** developed as Task 3 during my internship at Oasis Infobyte. It is a simple web application that allows users to convert textures or images using interactive frontend tools.
+This project is a **Temperature Converter** developed as Task 3 during my internship at Oasis Infobyte. It is a simple web application that allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin.
 
 ---
 
@@ -14,7 +14,7 @@ This project is a **Texture Converter** developed as Task 3 during my internship
 
 ## 📋 Project Overview
 
-The Texture Converter enables users to upload or work with textures and apply various conversions or transformations. This project helped me enhance my skills in DOM manipulation, event handling, and responsive UI design using core web technologies.
+The Temperature Converter enables users to input a temperature value and convert it across multiple units instantly. This project helped me practice core web development skills such as DOM manipulation, event handling, and responsive UI design using HTML, CSS, and JavaScript.
 
 ---
 
@@ -22,16 +22,16 @@ The Texture Converter enables users to upload or work with textures and apply va
 
 1. Clone or download the repository.  
 2. Open the `index.html` file in any modern web browser.  
-3. Use the available tools on the page to convert or manipulate textures as needed.
+3. Enter a temperature value and select the desired units to see the conversion results.
 
 ---
 
 ## 📚 Learning Outcomes
 
-- Hands-on experience with JavaScript DOM manipulation and event listeners  
-- Building interactive UI components with HTML and CSS  
-- Understanding user input handling and responsive design principles
+- Mastering JavaScript for interactive UI and calculations  
+- Working with user inputs and dynamic DOM updates  
+- Building clean and responsive web interfaces with HTML and CSS
 
 ---
 
-Feel free to explore and modify the project to enhance its features!
+Feel free to explore and enhance the project further!
